@@ -8,6 +8,4 @@ Mi CV puede descargarse de este link
   
 <p>
 
-  <a href="https://drive.google.com/drive/my-drive" target="blanck">
-    <h2>Puede descargar mi cv actualizado desde aqui </h2>
-  </a>
+ [CV Actualizado](cv.zip)
