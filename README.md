@@ -8,4 +8,4 @@ Mi CV puede descargarse de este link
   
 <p>
 
- [CV Actualizado](cv.zip)
+ [CV Actualizado](cv.zip.zip)
